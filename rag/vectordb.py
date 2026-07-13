@@ -26,7 +26,7 @@ def get_vector_db():
             embedding_function=embedding_model
         )
 
-    # Otherwise create it
+    ##### else creating new one
     print("Creating ChromaDB...")
 
     documents = load_documents("data/hr_policies")
