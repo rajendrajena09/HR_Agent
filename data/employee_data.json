@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Rajendra Jena",
+        "manager": "Amar Mukherjee",
+        "department": "AI Engineering",
+        "email": "rajendra@company.com"
+    },
+    {
+        "name": "Rahul Sharma",
+        "manager": "Priya Singh",
+        "department": "Data Engineering",
+        "email": "rahul@company.com"
+    }
+]
