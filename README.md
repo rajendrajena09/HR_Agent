@@ -14,7 +14,6 @@ An AI-powered HR Assistant built using LangChain, LangGraph, Groq, ChromaDB, and
 
 - Python
 - LangChain
-- LangGraph
 - Groq (Llama 3.3 70B)
 - ChromaDB
 - HuggingFace Embeddings
